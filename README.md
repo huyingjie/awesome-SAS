@@ -54,4 +54,4 @@ A curated list of awesome SAS resources. Inspired by the other [awesome lists](h
 
 Your contributions are always welcome!
 
-[Click here to see more details](CONTRIBUTING.MD)
+[Click to see CONTRIBUTING for details](https://github.com/huyingjie/awesome-SAS/blob/master/CONTRIBUTING.md)
