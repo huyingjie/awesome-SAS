@@ -1,4 +1,4 @@
-#Awesome SAS
+# Awesome SAS
 
 A curated list of awesome SAS resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
@@ -21,36 +21,36 @@ A curated list of awesome SAS resources. Inspired by the other [awesome lists](h
 * [StatRep](http://support.sas.com/rnd/app/papers/statrep.html) - Two steps to produce PDF document
 * [SASweave](http://homepage.stat.uiowa.edu/~rlenth/SASweave/) - inspired by Sweave in R
 
-#Resources
+# Resources
 
 * [certification](http://support.sas.com/certify/index.html)
 
-##Books
+## Books
 
-###beginner
+### beginner
 
 * [The Little SAS Book: A Primer, Fifth Edition](http://www.sas.com/store/prodBK_65423_en.html) - a classical book for beginners
 
-##Websites
+## Websites
 
 * [UCLA](http://www.ats.ucla.edu/stat/sas/) - Tutorials from University of California, Los Angeles
 
-##SAS for Free
+## SAS for Free
 
 * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html)
 * [SAS OnDemand for Academics](http://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html) - browser app
 
-##Conference
+## Conference
 
 * [SAS Global Forum](http://www.sas.com/events/analytics/us/) - yearly global SAS user conference
 * [Analytics](http://www.sas.com/events/analytics/us/) - yearly educational event about analytics
 
-##Search for Helps
+## Search for Helps
 
 * [SAS Support Communities](https://communities.sas.com/welcome) - official SAS support forum
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/sas) - a question and answer site for professional and enthusiast programmers
 
-#Contributing
+# Contributing
 
 Your contributions are always welcome!
 
